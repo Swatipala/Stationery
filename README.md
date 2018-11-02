@@ -17,6 +17,7 @@ Eureka :Providesmicroservice Registration and Discovery interactions between ser
 
 # Architecture and design :
 
+![architecture1](https://user-images.githubusercontent.com/32635250/47918918-f84c0f00-ded3-11e8-85ad-7b5a4de5e644.jpg)
 
 ![stationery warehouse](https://user-images.githubusercontent.com/32635250/47913025-83230e80-dec0-11e8-9d07-72a689b24426.png)
 
